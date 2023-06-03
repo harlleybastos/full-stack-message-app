@@ -10,8 +10,10 @@
 
 🛠️ List the technologies and frameworks used in the project.
 
-- Backend: [Go](https://golang.org/), [Framework](Framework Link)
-- Frontend: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/)
+- Backend: [Go](https://golang.org/)
+- Frontend: [Next.js](https://nextjs.org/)
+- Typescript: [TypeScript](https://www.typescriptlang.org/)
+- TailwindCSS: [TailwindCSS](https://tailwindcss.com/)
 
 ## Getting Started
 
